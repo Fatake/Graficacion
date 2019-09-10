@@ -16,7 +16,11 @@ Practicas creadas en Clase de Graficacion
 4. [Practica 4](https://github.com/Fatake/GraficacionPracticas/tree/master/Practica%204)
 
 # Tareas
-1. 
+1. [Tareas](https://github.com/Fatake/GraficacionTareas)
+
+# Proyecto Final
+1. [Proyecto](https://github.com/Fatake/Net-Graficacion)
+
 
 # Contendio de programas
 1. 
