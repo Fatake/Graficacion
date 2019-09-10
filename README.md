@@ -1,2 +1,2 @@
-# Graficacion
-Programas creados en Delphi 7
+# GraficacionPracticas
+Practicas creadas en Clase de Graficacion
